@@ -2,6 +2,8 @@
 
 Esta carpeta contiene los materiales para la primera clase del curso **ECI 2026 - Construyendo Agentes de Inteligencia Artificial (UBA)**.
 
+Impartido por **Leticia L. Rodriguez** | [teg-consulting.ai](https://teg-consulting.ai)
+
 ## 📂 Contenido
 
 - **`ECI 2026 - Agentes de IA - Clase 1.pdf`**: Diapositivas de la clase teórica donde introducimos el concepto de agentes, modelos fundacionales y estrategias de prompting.
